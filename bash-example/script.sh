@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello, World!"
+python script.py
