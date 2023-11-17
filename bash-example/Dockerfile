@@ -1,4 +1,5 @@
 FROM python:3-alpine
+LABEL org.opencontainers.image.source=https://github.com/adrienRiguet/test_dockerfile
 WORKDIR /app
 
 ARG default_name="name"
